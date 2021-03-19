@@ -1,15 +1,178 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zox-iii.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-03-19T08:20:09.068Z</updated>
+    <title>zox-iii 的 小 当 铺</title>
+    <updated>2021-03-19T08:30:38.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zox-iii.github.io"/>
     <link rel="self" href="https://zox-iii.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>正 在 营 业 中 ！</subtitle>
     <logo>https://zox-iii.github.io/images/avatar.png</logo>
     <icon>https://zox-iii.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, zox-iii 的 小 当 铺</rights>
+    <entry>
+        <title type="html"><![CDATA[Test-2]]></title>
+        <id>https://zox-iii.github.io/post/test-2/</id>
+        <link href="https://zox-iii.github.io/post/test-2/">
+        </link>
+        <updated>2021-03-19T08:25:33.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="面试准备仅供参考">面试准备（仅供参考）</h1>
+<p><ul class="markdownIt-TOC">
+<li><a href="#%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83">面试准备（仅供参考）</a>
+<ul>
+<li><a href="#%E4%B8%80-%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D">一、自我介绍</a></li>
+<li><a href="#%E4%BA%8C-%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98">二、面试问题</a>
+<ul>
+<li><a href="#1%E5%92%8C%E5%AD%A6%E6%A0%A1%E6%9C%89%E5%85%B3%E7%9A%84%E9%97%AE%E9%A2%98">【1】和学校有关的问题</a></li>
+<li><a href="#2%E4%B8%93%E4%B8%9A%E6%96%B9%E9%9D%A2%E7%9A%84%E9%97%AE%E9%A2%98">【2】专业方面的问题</a></li>
+<li><a href="#3%E4%B8%AA%E4%BA%BA%E6%96%B9%E9%9D%A2%E7%9A%84%E9%97%AE%E9%A2%98">【3】个人方面的问题</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</p>
+<h2 id="一-自我介绍">一、自我介绍</h2>
+<p><u>中英文都要准备，时间控制在3min左右</u></p>
+<ol>
+<li>问候语</li>
+<li>介绍自己的姓名、学校、专业</li>
+<li>介绍自己的性格、爱好，自我认知</li>
+<li>为什么读研、想要研究的方向、读研计划</li>
+<li>结束语</li>
+</ol>
+<h2 id="二-面试问题">二、面试问题</h2>
+<h3 id="1和学校有关的问题">【1】和学校有关的问题</h3>
+<ol>
+<li>为什么想要来澳门读研？</li>
+<li>为什么选择澳门城市大学？</li>
+<li>你对澳门印象最深的是？</li>
+<li>你对这个学校有什么想法和问题？</li>
+</ol>
+<h3 id="2专业方面的问题">【2】专业方面的问题</h3>
+<ol>
+<li>你想要在研究生阶段研究的专业方向是什么？你具体的学业计划是什么样的？</li>
+<li>你在大学里做过什么项目？你在项目里担任的角色是什么？</li>
+<li>你在你的专业方面擅长什么？</li>
+<li>你有什么实习经历？你从中获得了什么？</li>
+</ol>
+<h3 id="3个人方面的问题">【3】个人方面的问题</h3>
+<ol>
+<li>在大学有什么社团经历？参加或组织过什么大型活动？</li>
+<li>介绍一下你的家乡？</li>
+<li>你认为学习英语很重要吗？</li>
+<li>研究生毕业之后你有什么规划？（读博or工作）</li>
+</ol>
+<p><strong>自我介绍时也可以将下面的面试问题中的一些问题的回答放在里面。</strong></p>
+<p><mark>不管你着重介绍哪个方面，记住：最重要的是突出你自己的优势（绩点/实习经历/奖项/英语水平等等）。</mark></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test-1]]></title>
+        <id>https://zox-iii.github.io/post/test-1/</id>
+        <link href="https://zox-iii.github.io/post/test-1/">
+        </link>
+        <updated>2021-03-19T08:23:59.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<h2 id="authorzoxtime2021-3-18">author：zox<br>
+time：2021-3-18</h2>
+<p><ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#authorzoxtime2021-3-18">author：zox<br>
+time：2021-3-18</a></li>
+</ul>
+</li>
+<li><a href="#p1-%E8%B7%91%E4%B8%AA%E6%B5%81%E7%A8%8B-%E5%AF%BC%E5%85%A5%E7%B4%A0%E6%9D%90-%E5%AF%BC%E5%87%BA%E5%AA%92%E4%BD%93">P1--跑个流程 导入素材 导出媒体</a>
+<ul>
+<li><a href="#1-%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE">1、新建项目</a></li>
+<li><a href="#2-%E5%AF%BC%E5%85%A5%E7%B4%A0%E6%9D%90">2、导入素材</a></li>
+<li><a href="#3-%E6%97%B6%E9%97%B4%E8%BD%B4">3、时间轴</a></li>
+<li><a href="#4-%E6%92%AD%E6%94%BE%E8%A7%86%E9%A2%91">4、播放视频</a></li>
+</ul>
+</li>
+<li><a href="#p2-%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91-%E5%85%A5%E7%82%B9%E5%87%BA%E7%82%B9-%E5%89%83%E5%88%80%E5%B7%A5%E5%85%B7-%E5%B8%A7%E9%A2%91%E7%8E%87-%E9%80%90%E5%B8%A7%E6%92%AD%E6%94%BE">P2--视频剪辑 入点出点 剃刀工具 帧频率 逐帧播放</a>
+<ul>
+<li><a href="#1-%E5%AF%BC%E5%85%A5%E8%A7%86%E9%A2%91%E7%B4%A0%E6%9D%90">1、导入视频素材</a></li>
+<li><a href="#2-%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE">2、循环播放</a></li>
+</ul>
+</li>
+<li><a href="#p3-%E5%BD%95%E6%9C%BA%E5%92%8C%E6%94%BE%E6%9C%BA-%E6%97%B6%E9%97%B4%E8%BD%B4-%E7%BC%A9%E6%94%BE">P3--录机和放机 时间轴 缩放</a>
+<ul>
+<li><a href="#1-1">1、1</a></li>
+</ul>
+</li>
+</ul>
+</p>
+<h1 id="p1-跑个流程-导入素材-导出媒体">P1--跑个流程 导入素材 导出媒体</h1>
+<h2 id="1-新建项目">1、新建项目</h2>
+<ul>
+<li>
+<p>新建project→设置：项目名称、保存位置</p>
+</li>
+<li>
+<p>文件后缀.prproj</p>
+</li>
+<li>
+<table>
+<thead>
+<tr>
+<th>PR</th>
+<th>等同于</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>项目文件</td>
+<td>超市</td>
+</tr>
+<tr>
+<td>时间轴</td>
+<td>货架</td>
+</tr>
+<tr>
+<td>素材</td>
+<td>商品</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<h2 id="2-导入素材">2、导入素材</h2>
+<ul>
+<li><code>Ctrl+I</code>  文件→导入→导入素材</li>
+<li>从文件夹拖进左下角“项目”里</li>
+</ul>
+<h2 id="3-时间轴">3、时间轴</h2>
+<ul>
+<li>新建序列sequence→相关设置</li>
+<li>图片拖到时间轴上进行排序</li>
+<li>设置图片显示时间和音乐对应</li>
+</ul>
+<h2 id="4-播放视频">4、播放视频</h2>
+<ul>
+<li>右上角“节目”可以播放设置好的视频</li>
+<li>当视频里的图片太小了怎么设置？<br>
+窗口→效果控件→双击视频中的图片可以拖动大小</li>
+<li>导出序列<br>
+文件→导出→媒体→保存</li>
+</ul>
+<h1 id="p2-视频剪辑-入点出点-剃刀工具-帧频率-逐帧播放">P2--视频剪辑 入点出点 剃刀工具 帧频率 逐帧播放</h1>
+<h2 id="1-导入视频素材">1、导入视频素材</h2>
+<ul>
+<li>视频可以直接拖进右下角“时间轴”生成序列</li>
+<li><code>C</code> 剃刀工具：裁剪→选择开始点→选择结束点→删除多余的片段</li>
+</ul>
+<h2 id="2-循环播放">2、循环播放</h2>
+<ul>
+<li>设置入点、出点、按下循环按钮</li>
+<li>右击该片段→保存为子剪辑→成为一段素材</li>
+<li>时间轴上→右击→清除入点出点→导出视频</li>
+</ul>
+<h1 id="p3-录机和放机-时间轴-缩放">P3--录机和放机 时间轴 缩放</h1>
+<h2 id="1-1">1、1</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zox-iii.github.io/post/hello-gridea/</id>
